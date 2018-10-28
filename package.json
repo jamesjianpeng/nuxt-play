@@ -1,0 +1,36 @@
+{
+  "name": "nuxt-play",
+  "version": "0.0.1",
+  "description": "学习 ssr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generator": "nuxt generator",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesjianpeng/nuxt-play.git"
+  },
+  "keywords": [
+    "javascritp",
+    "nuxt",
+    "ssr"
+  ],
+  "author": "james",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesjianpeng/nuxt-play/issues"
+  },
+  "homepage": "https://github.com/jamesjianpeng/nuxt-play#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.0",
+    "nuxt": "^2.2.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.4",
+    "sass-loader": "^7.1.0"
+  }
+}

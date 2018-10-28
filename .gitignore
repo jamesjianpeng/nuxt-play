@@ -1,0 +1,5 @@
+# nuxt build and generater other file
+.nuxt
+
+# gitbook
+/docs/_book/
